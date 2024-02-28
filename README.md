@@ -6,6 +6,15 @@ I am a web developer who loves computers (especially the software side) and codi
 
 Skills: JS / HTML / CSS
 
+- 🔭 I’m currently working on a game called Immortal Chef 
+- 🌱 I’m currently learning Front-end development 
+- 😄 Pronouns: he/him/his 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swimmer248)  
+
+
+
 - 🔭 I’m currently working on this page. 
 
 
