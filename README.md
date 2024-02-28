@@ -1,29 +1,16 @@
-![Future indie game dev and web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-### Hi there 👋, I am Thomas Lowe!
+### Hello, I am Thomas Lowe!
 #### Future indie game dev and web developer
 
 I am a web developer who loves computers (especially the software side) and coding. I code as a hobby, and hopefully I'll do the same as a job. I can learn new languages rather quickly, and am good at designing a website. I am at my best when I'm in a group, with each person doing their own part.
 
 Skills: JS / HTML / CSS
 
-I’m currently working on a game called Immortal Chef and learning front-end development.
+I’m currently working on a game called Immortal Chef and learning front-end web development.
 
-My pronouns are he/him/his
+My pronouns are he/him/his.
+
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=swimmer248&show_icons=true)](https://github.com/swimmer248/github-readme-stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swimmer248)](https://github.com/swimmer248/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swimmer248)
-
-<!--
-**swimmer248/swimmer248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
