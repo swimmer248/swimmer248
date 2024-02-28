@@ -2,7 +2,7 @@
 #### Future indie game dev and web developer
 ![Future indie game dev and web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a web developer who loves computers (especially the software side) and coding. I code as a hobby, and hopefully I'll do the same as a job. I can learn new languages rather quickly, and am good at designing a website. I am at my best when I'm in a group, with each person doing their own part.
 
 Skills: JS / HTML / CSS
 
